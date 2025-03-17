@@ -1,4 +1,4 @@
-#🚀 Desafio DataEx - Databricks
+🚀 Desafio DataEx - Databricks
 
 Este repositório contém a solução do desafio DataEx realizado no Databricks, onde foram implementadas as principais práticas de modelagem dimensional, arquitetura Medallion e processamento de dados com PySpark e Delta Lake.
 
